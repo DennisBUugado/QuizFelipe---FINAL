@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebSuckYet</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>WebSuckYet Quiz</h1>
+    <div id="name-form-container">
+        <form id="name-form">
+            <label for="player-name">Nick do Jogador:</label>
+            <input type="text" id="player-name" name="player-name" required>
+            <button type="submit">Jogar!</button>
+        </form>
+    </div>
+    <div id="chat-container" class="hidden">
+        <div id="chat-box">
+            <div class="section-label">Pergunta:</div>
+            <div id="pergunta" class="message question"></div>
+            <div class="section-label">Alternativas:</div>
+            <div id="alternativas"></div>
+        </div>
+        <div id="pontuação"></div>
+    </div>
+    <div id="message-container" class="hidden">
+        <div id="message"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

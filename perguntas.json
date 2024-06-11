@@ -1,0 +1,142 @@
+[
+    {
+        "pergunta": "Qual é a capital do Brasil?",
+        "alternativas": ["Brasília", "Rio de Janeiro", "São Paulo", "Salvador"],
+        "resposta": "Brasília"
+    },
+    {
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "alternativas": ["Oceano Atlântico", "Oceano Índico", "Oceano Ártico", "Oceano Pacífico"],
+        "resposta": "Oceano Pacífico"
+    },
+    {
+        "pergunta": "Qual é o planeta mais próximo do Sol?",
+        "alternativas": ["Terra", "Vênus", "Marte", "Mercúrio"],
+        "resposta": "Mercúrio"
+    },
+    {
+        "pergunta": "Quem pintou a Mona Lisa?",
+        "alternativas": ["Michelangelo", "Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci"],
+        "resposta": "Leonardo da Vinci"
+    },
+    {
+        "pergunta": "Qual é a moeda oficial do Japão?",
+        "alternativas": ["Yuan", "Won", "Yen", "Dólar"],
+        "resposta": "Yen"
+    },
+    {
+        "pergunta": "Qual é o maior país do mundo em área territorial?",
+        "alternativas": ["Estados Unidos", "China", "Canadá", "Rússia"],
+        "resposta": "Rússia"
+    },
+    {
+        "pergunta": "Qual é o elemento químico representado pelo símbolo 'O'?",
+        "alternativas": ["Ouro", "Oxigênio", "Osmium", "Osmio"],
+        "resposta": "Oxigênio"
+    },
+    {
+        "pergunta": "Qual é a montanha mais alta do mundo?",
+        "alternativas": ["K2", "Kangchenjunga", "Lhotse", "Everest"],
+        "resposta": "Everest"
+    },
+    {
+        "pergunta": "Em que ano ocorreu a Revolução Francesa?",
+        "alternativas": ["1776", "1789", "1815", "1848"],
+        "resposta": "1789"
+    },
+    {
+        "pergunta": "Qual é o maior deserto do mundo?",
+        "alternativas": ["Deserto do Saara", "Deserto de Gobi", "Deserto da Antártida", "Deserto do Kalahari"],
+        "resposta": "Deserto da Antártida"
+    },
+    {
+        "pergunta": "Qual é a língua mais falada no mundo?",
+        "alternativas": ["Inglês", "Espanhol", "Chinês Mandarim", "Hindu"],
+        "resposta": "Chinês Mandarim"
+    },
+    {
+        "pergunta": "Qual é o rio mais longo do mundo?",
+        "alternativas": ["Rio Amazonas", "Rio Nilo", "Rio Yangtzé", "Rio Mississipi"],
+        "resposta": "Rio Nilo"
+    },
+    {
+        "pergunta": "Qual é a cidade mais populosa do mundo?",
+        "alternativas": ["Tóquio", "Nova York", "Xangai", "Mumbai"],
+        "resposta": "Tóquio"
+    },
+    {
+        "pergunta": "Quem é o autor de 'O Pequeno Príncipe'?",
+        "alternativas": ["Antoine de Saint-Exupéry", "J.K. Rowling", "Mark Twain", "Hans Christian Andersen"],
+        "resposta": "Antoine de Saint-Exupéry"
+    },
+    {
+        "pergunta": "Qual é o órgão mais pesado do corpo humano?",
+        "alternativas": ["Cérebro", "Coração", "Fígado", "Pulmão"],
+        "resposta": "Fígado"
+    },
+    {
+        "pergunta": "Quem descobriu a penicilina?",
+        "alternativas": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Gregor Mendel"],
+        "resposta": "Alexander Fleming"
+    },
+    {
+        "pergunta": "Em que continente fica o deserto do Saara?",
+        "alternativas": ["Ásia", "América do Norte", "América do Sul", "África"],
+        "resposta": "África"
+    },
+    {
+        "pergunta": "Qual é o país com a maior população do mundo?",
+        "alternativas": ["Índia", "Estados Unidos", "Indonésia", "China"],
+        "resposta": "China"
+    },
+    {
+        "pergunta": "Qual é o menor país do mundo em área territorial?",
+        "alternativas": ["Mônaco", "Malta", "Vaticano", "San Marino"],
+        "resposta": "Vaticano"
+    },
+    {
+        "pergunta": "Qual é o maior mamífero do mundo?",
+        "alternativas": ["Elefante Africano", "Baleia Azul", "Tubarão Baleia", "Orca"],
+        "resposta": "Baleia Azul"
+    },
+    {
+        "pergunta": "Quem foi o primeiro homem a pisar na Lua?",
+        "alternativas": ["Yuri Gagarin", "Buzz Aldrin", "Michael Collins", "Neil Armstrong"],
+        "resposta": "Neil Armstrong"
+    },
+    {
+        "pergunta": "Qual é o maior estado do Brasil em área territorial?",
+        "alternativas": ["Pará", "Amazonas", "Mato Grosso", "Minas Gerais"],
+        "resposta": "Amazonas"
+    },
+    {
+        "pergunta": "Quem foi o autor de 'Romeu e Julieta'?",
+        "alternativas": ["Charles Dickens", "F. Scott Fitzgerald", "William Shakespeare", "Jane Austen"],
+        "resposta": "William Shakespeare"
+    },
+    {
+        "pergunta": "Qual é a fórmula química da água?",
+        "alternativas": ["CO2", "H2O", "O2", "CH4"],
+        "resposta": "H2O"
+    },
+    {
+        "pergunta": "Qual é a capital da Austrália?",
+        "alternativas": ["Sydney", "Melbourne", "Perth", "Canberra"],
+        "resposta": "Canberra"
+    },
+    {
+        "pergunta": "Qual é a montanha mais alta da América do Sul?",
+        "alternativas": ["Monte Roraima", "Pico da Neblina", "Aconcágua", "Ojos del Salado"],
+        "resposta": "Aconcágua"
+    },
+    {
+        "pergunta": "Qual é o escritor brasileiro autor de 'Dom Casmurro'?",
+        "alternativas": ["Jorge Amado", "Carlos Drummond de Andrade", "Machado de Assis", "Manuel Bandeira"],
+        "resposta": "Machado de Assis"
+    },
+    {
+        "pergunta": "Qual é o maior órgão do corpo humano?",
+        "alternativas": ["Coração", "Pulmão", "Fígado", "Pele"],
+        "resposta": "Pele"
+    }
+]
